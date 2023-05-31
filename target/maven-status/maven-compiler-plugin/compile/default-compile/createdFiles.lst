@@ -1,0 +1,13 @@
+com\api\invoice\uts\controllers\FacturaRestController.class
+com\api\invoice\uts\models\entities\cliente.class
+com\api\invoice\uts\models\entities\Producto.class
+com\api\invoice\uts\services\IclienteServices.class
+com\api\invoice\uts\models\entities\Factura.class
+com\api\invoice\uts\models\dao\IclienteDao.class
+com\api\invoice\uts\controllers\clienteResController.class
+com\api\invoice\uts\models\dao\IProductoDao.class
+com\api\invoice\uts\models\dao\IFacturaDao.class
+com\api\invoice\uts\services\clienteServiceImpl.class
+com\api\invoice\uts\ApiInvoiceUtsApplication.class
+com\api\invoice\uts\models\entities\ItemFactura.class
+com\api\invoice\uts\models\entities\Region.class
