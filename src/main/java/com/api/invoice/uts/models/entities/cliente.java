@@ -52,6 +52,7 @@ private Region region;
 @OneToMany(fetch=FetchType.LAZY, mappedBy="cliente", cascade=CascadeType.ALL)
 private List<Factura> facturas;
 
+//Gets y Setts
 public String getApellidos() {
 	return apellido;
 }
