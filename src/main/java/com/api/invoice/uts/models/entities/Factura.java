@@ -51,7 +51,7 @@ public class Factura implements Serializable{
 	   this.items= new ArrayList<>();
    }
   
-   
+   //gets y setts
 
    public Long getId() {
 	return Id;
